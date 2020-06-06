@@ -1,0 +1,2 @@
+rootProject.name='SearchView'
+include ':app'
